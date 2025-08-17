@@ -27,7 +27,7 @@ export default function JoinPage() {
           {
             text: 'Take Photos',
             onPress: () => {
-              router.replace('./camera');
+              router.replace('../camera');
             },
           },
         ]
