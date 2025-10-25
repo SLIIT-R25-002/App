@@ -18,11 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.sliit.heatscape",
-      "versionCode": 1,
-      "compileSdkVersion": 34,
-      "targetSdkVersion": 34,
-      "minSdkVersion": 23,
-      "buildToolsVersion": "34.0.0"
+      "versionCode": 1
     },
     "web": {
       "bundler": "metro",
